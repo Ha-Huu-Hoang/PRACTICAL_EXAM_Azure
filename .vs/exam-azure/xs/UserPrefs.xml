@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2C41A3A7-0786-4A01-8995-55BC1C17510C}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.exam-azure PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exam-azure/Migrations/20231124080330_t2207a.cs">
+    <Files>
+      <File FileName="exam-azure/DTOs/OrderDTO.cs" />
+      <File FileName="exam-azure/appsettings.json" Line="14" Column="1" />
+      <File FileName="exam-azure/Migrations/20231124080330_t2207a.cs" Line="8" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam-azure" expanded="True">
+            <Node name="exam-azure" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
